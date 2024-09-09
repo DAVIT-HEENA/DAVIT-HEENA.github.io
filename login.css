@@ -1,0 +1,47 @@
+
+body{
+    background-image:url(login.jpg) ;
+}
+#div1{
+    text-align: center;
+    margin: 150px 0px 0px 300px;
+    height: auto;
+    width: 150px;
+    display: inline-block;
+    font-weight: 900;
+    border-radius: 10px;
+    background-color: RGBA(144, 194, 231,0.75);
+}
+#div2{
+    height: 200px;
+    width: 200px;
+    background-color: rgba(206, 211, 220,0.75);
+    margin: 50px 0px 0px 275px;
+    border-radius: 15px;
+    display: inline-block;
+}
+input{
+    border-radius: 10px;
+    margin: 10px 0px 0px 15px;
+    text-align: center;
+}
+#sel1{
+    border-radius: 10px;
+    margin: 10px 0px 0px 45px;
+    text-align:justify;
+}
+#sel2{
+    border-radius: 10px;
+    margin: 10px 0px 0px 55px;
+    text-align:justify;
+}
+a{
+    text-decoration: none;
+    text-align: justify;
+    columns: #CDA2AB;
+    font-weight: 900;
+}
+button{
+    margin: 10px 0px 0px 65px;
+    border-radius: 10px;
+}
